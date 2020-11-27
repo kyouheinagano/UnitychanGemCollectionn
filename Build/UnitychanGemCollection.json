@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "UnitychanAction",
+"productVersion": "0.1",
+"dataUrl": "UnitychanGemCollection.data.unityweb",
+"wasmCodeUrl": "UnitychanGemCollection.wasm.code.unityweb",
+"wasmFrameworkUrl": "UnitychanGemCollection.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.0f1"
+}
